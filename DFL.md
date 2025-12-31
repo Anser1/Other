@@ -248,5 +248,10 @@ DFL 通过将连续回归问题转化为分布学习问题，显著增强了监�
 
 ---
 
+## 11. Softmax与Sigmoid
+Softmax：更像是在解决唯一性的问题。例：从一堆概率中选出最大的来做为最终的预测。
+Sigmoid：是在解决是与否的问题。例：对于多个物体判断每个物体是否属于该类别。
+<img width="566" height="224" alt="image" src="https://github.com/user-attachments/assets/fd2024c4-d9ca-4561-b955-1022f8c3abe1" />
+
 
 
